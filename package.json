@@ -1,0 +1,16 @@
+{
+  "name": "air_conditioner_web_control_app_v2_0",
+  "version": "2.0.0",
+  "description": "A web controller app for a window-mounted air conditioner with an IR remote.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walker Bolger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "serialport": "^1.7.4"
+  }
+}
